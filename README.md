@@ -3,7 +3,7 @@
 This GitHub page with provides information about COVID-19 and the epidemic situation in Switzerland.
 
 ## Pandemic response
-- [COVID-19 Epidemic in Switzerland: On the Importance of Testing, Isolating, and Quarantining](response/TIQ.md])
+- [COVID-19 Epidemic in Switzerland: On the Importance of Testing, Isolating, and Quarantining](response/TIQ.md)
 
 ## Authors
 - Prof. Richard Neher, University of Basel
